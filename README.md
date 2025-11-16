@@ -1,7 +1,7 @@
 <h1 align="center">I'm Morvay</h1>
 <h3 align="center">A passionate Full stack developer from Turkey</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Ftopics%2Fgif-animation%3Fo%3Ddesc%26s%3Dstars&psig=AOvVaw0YvdDmGnIz_6HiJcF8RXXw&ust=1763356419409000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODP19v09ZADFQAAAAAdAAAAABAL">
+<img align="right" alt="coding" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2934&label=Profile%20views&color=0e75b6&style=flat" alt="2934" /> </p>
 
